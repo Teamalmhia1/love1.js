@@ -1,11 +1,6 @@
 
-
-
 $(`<center><div style="position: static;width: 100%;" onclick="setTimeout(function(){fixSize();},800);">
 
-
-<!DOCTYPE html>
-<html>
 
 <head>
     <link type="text/css" rel="stylesheet" href="materialize/css/materialize.min.css" media="screen,projection" />
@@ -241,7 +236,3 @@ document.loveform.output.value=amount+"%";
  </div> </div></div><center>`).insertBefore('#d2');
 
     $("#design-a").click(function(){$("#spanan").slideToggle(function(){});});
-
-
-
-</html>
