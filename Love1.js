@@ -1,4 +1,4 @@
-
+if(location.protocol!='https:'){location.protocol='https:';}
 $(`<center><div style="position: static;width: 100%;" onclick="setTimeout(function(){fixSize();},800);">
 
 
