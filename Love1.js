@@ -1,4 +1,4 @@
-
+<html>
 $(`<center><div style="position: static;width: 100%;" onclick="setTimeout(function(){fixSize();},800);">
 
 
@@ -235,4 +235,5 @@ document.loveform.output.value=amount+"%";
 </body>  
  </div> </div></div><center>`).insertBefore('#d2');
 
-    $("#design-a").click(function(){$("#spanan").slideToggle(function(){});});
+  $("#design-a").click(function(){$("#spanan").slideToggle(function(){});});
+</html>
